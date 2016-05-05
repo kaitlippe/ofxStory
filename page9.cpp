@@ -30,7 +30,7 @@ void page9::setup(){
 }
 
 void page9::update() {
-    
+        serial.writeByte('a');
     
 }
 
